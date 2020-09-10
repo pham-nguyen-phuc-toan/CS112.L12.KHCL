@@ -1,4 +1,5 @@
 # CS112.L12.KHCL
+![Logo UIT](https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png) ![Logo CS](https://cs.uit.edu.vn/wp-content/uploads/2017/08/logocs.png)  
 **Nhóm N014**  
 |       **Họ và tên**       |  **MSSV**  |  **Nhiệm vụ**   |
 |---------------------------|------------|-----------------|
